@@ -6,6 +6,19 @@ Why? Because I can. And I happen to have 5 chrome boxes.
 
 Goal of the mini-cluster? is to be defined.
 
+# 🎯 Final Destination:
+- VPN connectivity to cluster
+- Docker swarm (k3s overkill? Stage 2?)
+  - _running apps TBD_
+- Storage in Raid
+  - _adding several flash/drives and setup "cluster-raid" vs dedicated NAS_
+
+
+# 🚧 Next:
+[ ] Install Fedora server on all machines (most run Fedora Workspace
+[ ] Setup SSH connections to machines
+[ ] Ansible script to setup Docker
+
 
 # The HW
 
@@ -30,3 +43,11 @@ The SPI flash chip is super easy to locate on Chromebox 3 - just open the bottom
 # The SW
 
 A good friend of mine recommended going with Fedora, so I went with Fedora 37 Server Edition. After the chromeboxes were unbricked, I created a bootable USB flash drive using Fedora Media Writer (I'm on a Mac) and installed it. Worked like a charm.
+
+
+
+
+# Ideas, links
+
+k3s on Raspberry Pis: https://www.youtube.com/watch?app=desktop&v=X9fSMGkjtug
+(potentially overkill)
