@@ -6,7 +6,7 @@ Why? Because I can. And I happen to have 5 chrome boxes.
 
 Goal of the mini-cluster? is to be defined.
 
-# 🎯 Final Destination:
+## 🎯 Final Destination:
 - VPN connectivity to cluster
 - Docker swarm (k3s overkill? Stage 2?)
   - _running apps TBD_
@@ -14,7 +14,7 @@ Goal of the mini-cluster? is to be defined.
   - _adding several flash/drives and setup "cluster-raid" vs dedicated NAS_
 
 
-# 🚧 Next:
+## 🚧 Next:
 - [ ] Install Fedora server on all machines (most run Fedora Workspace
 - [ ] Setup SSH connections to machines
 - [ ] Ansible script to setup Docker
