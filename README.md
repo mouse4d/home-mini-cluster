@@ -15,9 +15,9 @@ Goal of the mini-cluster? is to be defined.
 
 
 # 🚧 Next:
-[ ] Install Fedora server on all machines (most run Fedora Workspace
-[ ] Setup SSH connections to machines
-[ ] Ansible script to setup Docker
+- [ ] Install Fedora server on all machines (most run Fedora Workspace
+- [ ] Setup SSH connections to machines
+- [ ] Ansible script to setup Docker
 
 
 # The HW
