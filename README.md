@@ -1,4 +1,6 @@
-# Welcome to the home-mini-cluster wiki!
+# Welcome to the home-mini-cluster !
+
+# 🚧 Construction site 🏗️ 🚧
 
 In this project I'll plan and document the setup of my mini-cluster.
 
