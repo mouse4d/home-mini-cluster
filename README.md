@@ -1,6 +1,6 @@
 # Welcome to the home-mini-cluster !
 
-# 🚧 Construction site 🏗️ 🚧
+## 🚧 Construction site 🏗️ 🚧
 
 In this project I'll plan and document the setup of my mini-cluster.
 
@@ -8,11 +8,16 @@ Why? Because I can. And I happen to have 5 chrome boxes.
 
 Goal of the mini-cluster? is to be defined.
 
+⚠️ *Much important:* whatever ideas you have -> send them to Discussions section!
+
+
 ## 🎯 Final Destination 1:
 - VPN connectivity to cluster
-- Docker swarm (k3s overkill? Stage 2?)
+- Docker swarm (k3s overkill? Final Destination 2?)
   - _mail server?_
   - _some crypto node?_
+  - _google docs killer?_
+  - _dropbox replacement?_
   - _???_
 - Storage in Raid
   - //TODO _adding several flash/drives and setup "cluster-raid" vs dedicated NAS_
