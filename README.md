@@ -54,8 +54,19 @@ The SPI flash chip is super easy to locate on Chromebox 3 - just open the bottom
 
 A good friend of mine recommended going with Fedora, so I went with Fedora 37 Server Edition. After the chromeboxes were unbricked, I created a bootable USB flash drive using Fedora Media Writer (I'm on a Mac) and installed it. Worked like a charm.
 
+# Setup
 
+1. SSH was already up
+2. Changed host name with 
 
+```bash
+hostnamectl set-hostname {name}
+```
+3. Upload ssh key
+
+```bash
+ssh-copy-id username@remote_host
+```
 
 # Ideas, links
 
