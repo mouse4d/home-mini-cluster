@@ -1,0 +1,8 @@
+- name: Play one
+  hosts: servers
+  tasks:
+    - name: Ping server
+      ansible.builtin.ping:
+    - name: Print text
+      ansible.builtin.debug:
+        msg: Hello tasty vegetable

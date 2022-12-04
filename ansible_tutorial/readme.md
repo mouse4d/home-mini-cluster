@@ -1,1 +1,2 @@
-Created first draft on the ansible inventory by following tutorial : https://docs.ansible.com/ansible/latest/getting_started/get_started_inventory.html
+1. Created first draft on the ansible inventory by following tutorial : https://docs.ansible.com/ansible/latest/getting_started/get_started_inventory.html
+2. Created first playbook following turorial: https://docs.ansible.com/ansible/latest/getting_started/get_started_playbook.html
