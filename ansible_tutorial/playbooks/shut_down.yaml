@@ -1,0 +1,6 @@
+- name: Shut down
+  hosts: servers
+  tasks:
+    - name: Shutdown server
+      command: "/sbin/shutdown"
+      become: yes

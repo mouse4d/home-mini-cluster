@@ -1,14 +1,13 @@
 servers:
-  hosts:
-    avocado:
-      ansible_host: cb3-avocado
-    potato:
-      ansible_host: cb3-potato
-    tomato:
-      ansible_host: cb2-tomato
-    aubergine:
-      ansible_host: cb2-aubergine
-    zucchini:
-      ansible_host: cb2-zucchini
+  children:
+      chromebox3:
+        hosts:
+          cb3-avocado:
+          cb3-potato:
+      chromebox2:
+        hosts:
+          cb2-tomato:
+          cb2-aubergine:
+          cb2-zucchini:
   vars:
     ansible_user: aserver

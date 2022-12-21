@@ -2,18 +2,20 @@
 
 ## 🚧 Construction site 🏗️ 🚧
 
-In this project I'll plan and document the setup of my mini-cluster.
+I happen to have 5 Chromeboxes so what else to do if not a home mini-cluster?
 
-Why? Because I can. And I happen to have 5 chrome boxes.
+I very little idea about the underlying tech and tools, so it's a learning project.
+Here I'll plan and document the setup of my mini-cluster.
 
-Goal of the mini-cluster? is to be defined.
+Goal of the mini-cluster is to be defined, but an inspiration is [Khue's Homelab][https://homelab.khuedoan.com]
 
 ⚠️ *Much important:* whatever ideas you have -> send them to Discussions section!
 
 
 ## 🎯 Final Destination 1:
 - VPN connectivity to cluster
-- Docker swarm (k3s overkill? Final Destination 2?)
+- K3S
+  - _matrix node?_ 
   - _mail server?_
   - _some crypto node?_
   - _google docs killer?_
