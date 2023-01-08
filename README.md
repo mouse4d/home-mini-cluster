@@ -26,8 +26,8 @@ Goal of the mini-cluster is to be defined, but an inspiration is [Khue's Homelab
 
 
 ## 🚧 Next:
-- [ ] Install Fedora server on all machines (most run Fedora Workspace)
-- [ ] Setup SSH connections to machines
+- [X] Install Fedora server on all machines (most run Fedora Workspace)
+- [X] Setup SSH connections to machines
 - [ ] Ansible script to setup basics
   - _what are the basics btw?_
 
